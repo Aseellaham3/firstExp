@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dynamicApp</string>
+    <string name="Select_car_type">Select car type</string>
+    <string name="get_car">Get car</string>
+    <string-array name="car_type">
+        <item> BMW</item>
+        <item> Gole</item>
+    </string-array>
+</resources>
